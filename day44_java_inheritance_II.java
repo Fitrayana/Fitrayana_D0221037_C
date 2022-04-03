@@ -1,5 +1,3 @@
-package com.tutorial;
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
